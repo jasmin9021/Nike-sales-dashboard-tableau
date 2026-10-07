@@ -13,11 +13,9 @@ This project turns a raw sales dataset into a dashboard that helps answer key bu
 
 ## 🖼️ Dashboard Preview
 
-> Add your dashboard screenshots to a `images/` folder and update the paths below.
 
 ![Dashboard Preview](images/dashboard.png)
 
-🔗 **Live dashboard:** *(add your Tableau Public link here, if published)*
 
 ## 📂 Dataset
 
@@ -82,9 +80,9 @@ This project turns a raw sales dataset into a dashboard that helps answer key bu
 
 ```
 nike-sales-dashboard-tableau/
-├── My_project.twb        # Tableau workbook
-├── Nike Dataset.csv      # Dataset
-├── images/               # Dashboard screenshots
+├── My_project.twb                # Tableau workbook
+├── Nike Dataset.csv              # Dataset
+├── Tableau_Dashboard.PNG         # Dashboard screenshots
 └── README.md
 ```
 
