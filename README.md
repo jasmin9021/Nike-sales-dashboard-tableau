@@ -82,8 +82,8 @@ This project turns a raw sales dataset into a dashboard that helps answer key bu
 nike-sales-dashboard-tableau/
 ├── My_project.twb                # Tableau workbook
 ├── Nike Dataset.csv              # Dataset
-├── Tableau_Dashboard.PNG         # Dashboard screenshots
-└── README.md
+├── README.md
+└── Tableau_Dashboard.PNG         # Dashboard screenshots
 ```
 
 ## 👩‍💻 Author
